@@ -1,0 +1,24 @@
+Quick reminder for google features and effective searching
+
+Try using google advanced search
+
+Operators:
+define - returns definition to a given term
+- - Excludes search results that include this term. ex. Where to travel -India
+| - returns search results that match either side of the pipe (like or) - ex. Palantir | Jane Street
+" " - returns search results that include all terms within quotes in exact given order. ex. "Like an angel".
+* - returns search results where any words can be given instead of *. ex. best * to live.
+.. - return search results placed between two numbers. ex. laptop 200$..1000$.
+() - can be used to search logic ex. (best | worst) country to live in 2022.
+filetype: Return only search results that match particular filetype ex. sleep study filetype:pdf
+related: Returns other websites that are similar to the queried website. ex. related:nytimes.com
+site: returns only search for particular website. ex. USOS site:mimuw.edu.pl
+intext: returns only seach results that maatch in the page body.
+allintext: Same as intext, but matching every term that appears after allintext.
+intitle: Returns only search results that match in the page's title.
+allintitle: Same as intitle, but matching every term that appears after allintitle
+before: returns search results before the given date
+after: returns search results after the given date ex. python courses after: 2021 
+loc: returns searches for a given location. ex. best places loc:NY
+
+
